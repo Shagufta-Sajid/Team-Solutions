@@ -1,0 +1,27 @@
+[
+    {
+        "designation": "Laravel Developer",
+        "dept_id":1
+    },
+    {
+        "designation": "Laravel Intern",
+        "dept_id":1
+    },
+    {
+        "designation": "PHP Developer",
+        "dept_id":1
+    },
+    {
+        "designation": "Laravel Developer",
+        "dept_id":2
+    },
+    {
+        "designation": "Laravel Developer",
+        "dept_id":2
+    },
+    {
+        "designation": "PHP Developer",
+        "dept_id":2
+    }
+    
+]
